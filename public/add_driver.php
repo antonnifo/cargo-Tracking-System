@@ -16,13 +16,7 @@
 					<nav class="gn-menu-wrapper">
 						<div class="gn-scroller scrollbar1">
 							<ul class="gn-menu agile_menu_drop">
-								<li><a href="#"> <i class="fa fa-tachometer"></i> Dashboard</a></li>
-								
-								
-								
-								
-								
-							
+								<li><a href="#"> <i class="fa fa-tachometer"></i> Dashboard</a></li>		
 								
 							</ul>
 						</div><!-- /gn-scroller -->
@@ -145,7 +139,7 @@ $trn_date=date("Y-m-d");
 
 }
  ?>
-				
+		
 
 				<div class="wthree_general">
 
@@ -228,12 +222,6 @@ if ($results) {
             }
 }
 ?>
- 
-
-
-
-
-
 
 	</div>
 	<!-- //inner_content_w3_agile_info-->
